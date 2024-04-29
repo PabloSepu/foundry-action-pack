@@ -1,8 +1,9 @@
 name: Release Creation
 
-on: 
-  release:
-    types: [published]
+#on: 
+# release:
+#   types: [published]
+on: workflow_dispatch
 
 jobs:
   build:
