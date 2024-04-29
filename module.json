@@ -1,5 +1,5 @@
 {
-    "id": "action-pack",
+    "id": "action-pack2",
     "title": "Action Pack",
     "description": "Adds an expanding tray for using an actor's items, abilities and spells",
     "authors": [
@@ -7,7 +7,7 @@
             "name": "Tero Parvinen (tero.p)"
         }
     ],
-    "version": "11.2",
+    "version": "11.2.1",
     "compatibility": {
         "minimum": 11,
         "verified": 11
